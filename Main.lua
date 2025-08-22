@@ -2,8 +2,8 @@
 -- Use new Main-v2.lua
 
 local Icons = {
-    ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua"))(),
-    ["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua"))(),
+    ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ZE11brok/Icon/refs/heads/main/lucide/dist/Icons.lua"))(),
+    ["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ZE11brok/Icon/refs/heads/main/craft/dist/Icons.lua"))(),
 }
 
 
