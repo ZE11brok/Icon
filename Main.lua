@@ -15,7 +15,7 @@ function IconModule.SetIconsType(iconType)
     IconModule.IconsType = iconType
 end
 
-function IconModule.Icon(Icon, Type) -- Type: optional
+function IconModule.Icon(Icon, Type)
     local iconType = Icons[Type or IconModule.IconsType]
     
     if iconType.Icons[Icon] then
